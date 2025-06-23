@@ -2,7 +2,7 @@
 
 AI Platform Performance Analysis – DeepSeek vs ChatGPT
 
-This project presents a comprehensive analytical comparison between two AI platforms—DeepSeek and ChatGPT—focusing on user behavior, model performance, and platform engagement trends. Using a synthetic dataset simulating real-world usage, the analysis combines R for in-depth statistical modeling and forecasting, and Power BI for interactive dashboards and business-oriented visualizations.
+This project presents a comprehensive analytical comparison between two AI platforms—DeepSeek and ChatGPT—focusing on user behavior, model performance, and platform engagement trends. Using a [synthetic dataset](https://www.kaggle.com/datasets/khanaakif/deepseek-vs-chatgpt-ai-platform-comparison) simulating real-world usage, the analysis combines R for in-depth statistical modeling and forecasting, and Power BI for interactive dashboards and business-oriented visualizations.
 
 # Objectives
 Evaluate differences in performance metrics such as response accuracy, user ratings, and session duration.
